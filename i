@@ -8,7 +8,7 @@
 			Console.WriteLine("Informe o segundo número: ");
 			float num2 = float.Parse(Console.ReadLine());
 			float resultado = num * num2;
-			Console.WriteLine("O valor absoluto do número é: " + resultado);
+			Console.WriteLine("A multiplicação do número é: " + resultado);
 			
 			
 			Console.Write("Press any key to continue . . . ");
